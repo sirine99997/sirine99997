@@ -36,8 +36,8 @@ Academic programming projects developed using C.
 Object-Oriented Programming projects developed using Java.
 
 ### 🧮 Calculatrice
-Calculatrice est une application web interactive développée avec React.js permettant d'effectuer les opérations mathématiques de base à travers une interface simple et intuitive.
-Technologies utilisées
+Calculatrice is an application web developed with:
+:
 - React.js
 - JavaScript
 - HTML
@@ -46,8 +46,7 @@ Technologies utilisées
 
 ### 🎬 Movie Watchlist
 
-Movie Watchlist est une application web développée avec Angular permettant de gérer une liste de films de manière simple et interactive.
-Technologies utilisées
+Movie Watchlist is an application web developed with :
 - Angular
 - TypeScript
 - HTML
