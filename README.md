@@ -35,11 +35,24 @@ Academic programming projects developed using C.
 ### ☕ Java Projects
 Object-Oriented Programming projects developed using Java.
 
-##🚀 Currently Working On
+### 🧮 Calculatrice
+Calculatrice est une application web interactive développée avec React.js permettant d'effectuer les opérations mathématiques de base à travers une interface simple et intuitive.
+Technologies utilisées
+- React.js
+- JavaScript
+- HTML
+- CSS
 
-Discover Tunisia: A web application developed using React to explore and discover places in Tunisia .
 
-Cinema Project: A cinema web application developed using Angular.
+###🎬 Movie Watchlist
+
+Movie Watchlist est une application web développée avec Angular permettant de gérer une liste de films de manière simple et interactive.
+Technologies utilisées
+- Angular
+- TypeScript
+- HTML
+- CSS
+
 
 ## 📫 Contact
 - Email: sirinehmaid9@gmail.com
