@@ -44,7 +44,7 @@ Technologies utilisées
 - CSS
 
 
-###🎬 Movie Watchlist
+### 🎬 Movie Watchlist
 
 Movie Watchlist est une application web développée avec Angular permettant de gérer une liste de films de manière simple et interactive.
 Technologies utilisées
